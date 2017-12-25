@@ -19,7 +19,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AddingElementActivity"></activity>
+        <activity android:name=".AddingElementActivity" />
+        <activity android:name=".UserHistoryActivity" />
+        <activity android:name=".DataListActivity"></activity>
     </application>
 
 </manifest>
